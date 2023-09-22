@@ -1,4 +1,4 @@
-# API Gerenciador de serviço
+# API Gerenciador de Serviço
 
 Este é um projeto de MVP (Minimum Viable Product) de uma API Flask para gerenciar serviços.
 
