@@ -1,4 +1,4 @@
-# API Prontuário Médico
+# API Gerenciador de serviço
 
 Este é um projeto de MVP (Minimum Viable Product) de uma API Flask para gerenciar serviços.
 
